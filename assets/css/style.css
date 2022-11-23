@@ -1,0 +1,134 @@
+body{
+    
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #0d1323;
+}
+
+.maincontent{
+    display: flex;
+    justify-content: space-around;
+}
+.maincontent1{
+    margin-top: 50px;
+    height: 400px;
+}
+
+.main{
+    border:none;
+    width: 300px;
+    height: 750px;
+    margin-bottom:100px ;
+    border-radius: 10px;
+    background-color:#1d204b;
+}
+
+.mainimage{
+    width: 100px;
+    margin-left: 30px;
+    
+}
+.main1{
+    padding-top: 50px;
+    padding-bottom: 100px;
+    border-radius: 10px;
+    background-color:#5746ea ;
+}
+.main2{
+    margin-left: 30px;
+    padding-bottom: 100px;
+
+    
+}
+.boxcontainer1{
+    background-color:#ff8b64;
+    border-radius: 10px;
+    width: 300px;
+}
+
+.boxcontainer2{
+    background-color:#56c2e6;
+    border-radius: 10px;
+    width: 300px;
+}
+.boxcontainer3{
+    background-color:#ff5e7d;
+    border-radius: 10px;
+    width: 300px;
+}
+.boxcontainer4{
+    background-color:#4ccf82;
+    border-radius: 10px;
+    width: 300px;
+}
+
+.boxcontainer5{
+    background-color:#7235d1;
+    border-radius: 10px;
+    width: 300px;
+}
+.boxcontainer6{
+    background-color:#f1c75b;
+    border-radius: 10px;
+    width: 300px;
+}
+.topimage{
+     margin-left: 200px;
+     /* width: 50px; */
+}
+.box{
+   
+    width: 300px;
+    height: 250px;
+    border: none;
+    background-color: rgb(12, 8, 67);
+    color: white;
+    padding-top: 20px;
+    border-radius: 10px;
+    
+}
+.box1{
+    margin-top: 20px;
+}
+.para{
+    margin-left: 30px;
+    font-size: 30px;
+}
+.img1{
+    width: 50px;
+    height: 10px;
+    border-radius: 20px;
+    margin-right: 50px;
+    margin-left: 0;
+}
+.box1{
+    display: flex;
+    justify-content: space-between;
+}
+
+.hrs{
+    font-size: 80px;
+    margin-top: 30px ;
+    margin-left: 20px;
+
+}
+.lastweek{
+    margin-top: px ;
+    margin-left: 30px;
+}
+
+
+.content1{
+    display: flex;
+    gap: 90px;
+    justify-content: space-around;
+    margin-top: 50px;
+
+}
+
+.content2{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+}
